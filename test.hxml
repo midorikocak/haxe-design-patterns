@@ -1,0 +1,10 @@
+-main TestMain
+-lib munit
+-lib mmvc
+-lib msignal
+-lib minject
+-lib hamcrest
+-cp src
+
+-cp test
+-js bin/js_test.js
