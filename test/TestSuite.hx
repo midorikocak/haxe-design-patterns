@@ -1,6 +1,7 @@
 import massive.munit.TestSuite;
 
 import AbstractFactoryPatternTest;
+import BuilderPatternTest;
 import FactoryPatternTest;
 import SingletonTest;
 
@@ -17,6 +18,7 @@ class TestSuite extends massive.munit.TestSuite
 		super();
 
 		add(AbstractFactoryPatternTest);
+		add(BuilderPatternTest);
 		add(FactoryPatternTest);
 		add(SingletonTest);
 	}

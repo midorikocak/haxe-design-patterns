@@ -9,6 +9,7 @@ Currently translated patterns are:
 - Factory
 - Abstract Factory
 - Singleton
+- Builder
 
 ## Installation
 
